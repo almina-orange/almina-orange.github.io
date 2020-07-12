@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://almina-orange.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Jul 2020 08:41:41 +0900</lastBuildDate>
+    
+	<atom:link href="http://almina-orange.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Hug</title>
+      <link>http://almina-orange.github.io/post/hello-hug/</link>
+      <pubDate>Mon, 13 Jul 2020 08:41:32 +0900</pubDate>
+      
+      <guid>http://almina-orange.github.io/post/hello-hug/</guid>
+      <description>Hello Hugo!</description>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>http://almina-orange.github.io/post/hello-world/</link>
+      <pubDate>Mon, 13 Jul 2020 08:41:28 +0900</pubDate>
+      
+      <guid>http://almina-orange.github.io/post/hello-world/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
