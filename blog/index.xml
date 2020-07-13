@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog on My New Hugo Site</title>
+    <link>http://almina-orange.github.io/blog/</link>
+    <description>Recent content in Blog on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 14 Jul 2020 08:27:43 +0900</lastBuildDate>
+    
+	<atom:link href="http://almina-orange.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>20200714083102</title>
+      <link>http://almina-orange.github.io/blog/20200714083102/</link>
+      <pubDate>Tue, 14 Jul 2020 08:31:02 +0900</pubDate>
+      
+      <guid>http://almina-orange.github.io/blog/20200714083102/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
